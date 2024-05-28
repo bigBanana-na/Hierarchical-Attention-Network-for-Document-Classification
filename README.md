@@ -8,7 +8,7 @@
 - **dataLoad.py**：用于读取预处理后的数据，并生成批次数据供训练使用。
 - **model.py**：定义 Hierarchical Attention Network（HAN）模型。
 - **train.py**：用于模型训练。
-- **runs**：用于存放训练的保存点
+- **runs**：用于存放训练保存点的文件夹
 
 ## 使用方法
 
